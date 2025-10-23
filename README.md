@@ -2,8 +2,7 @@
 
 Aplikasi web sederhana untuk membuat QR code QRIS dengan nominal pembayaran kustom dari gambar QRIS statis yang sudah ada. Aplikasi ini berjalan sepenuhnya di browser Anda (client-side) tanpa memerlukan backend.
 
-![Screenshot Aplikasi](link-ke-screenshot-anda.png) 
-*(Ganti `link-ke-screenshot-anda.png` dengan URL screenshot aplikasi Anda, misalnya dari Imgur)*
+<img src="https://i.imgur.com/nNBWzNJ.jpeg">
 
 ---
 
