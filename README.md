@@ -20,7 +20,7 @@ Website sederhana untuk membuat QRIS Dynamic dengan nominal pembayaran kustom da
 
 ### 1. Online (Rekomendasi)
 
-Anda bisa langsung menggunakan aplikasi ini melalui link berikut:
+Anda bisa langsung menggunakannya melalui link berikut:
 
 **(https://dynamic-qris-ten.vercel.app/)**
 
