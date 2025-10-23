@@ -8,8 +8,6 @@ Website sederhana untuk membuat QRIS Dynamic dengan nominal pembayaran kustom da
 
 ## Fitur Utama 🌟
 
-* **Upload QRIS Statis:** Unggah gambar QRIS statis Anda (format PNG, JPG, dll.).
-* **Pemindaian Otomatis:** Kode QRIS dari gambar akan otomatis terbaca.
 * **Input Nominal Kustom:** Masukkan jumlah pembayaran yang Anda inginkan (dengan format pemisah ribuan otomatis).
 * **Generate QR Dinamis:** Membuat QR code baru dengan struktur data QRIS yang menyertakan nominal pembayaran Anda.
 * **Download QR:** Unduh QR code yang baru dibuat sebagai file PNG.
