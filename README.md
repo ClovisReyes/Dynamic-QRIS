@@ -8,11 +8,11 @@ Website sederhana untuk membuat QRIS Dynamic dengan nominal pembayaran kustom da
 
 ## Fitur Utama 🌟
 
-* **Input Nominal Kustom:**
-* **Generate QR Dinamis:**
-* **Download QRIS:**
-* **Riwayat Transaksi:**
-* **Grafik Transaksi:**
+* **Input Nominal Kustom.**
+* **Generate QR Dinamis.**
+* **Download QRIS.**
+* **Riwayat Transaksi.**
+* **Grafik Transaksi.**
 
 ---
 
