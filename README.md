@@ -10,7 +10,7 @@ Website sederhana untuk membuat QRIS Dynamic dengan nominal pembayaran kustom da
 
 * **Input Nominal Kustom:** Masukkan jumlah pembayaran yang Anda inginkan.
 * **Generate QR Dinamis:** Membuat QR code baru dengan struktur data QRIS yang menyertakan nominal pembayaran Anda.
-* **Download QR:** Unduh QR code yang baru dibuat sebagai file PNG.
+* **Download QRIS:** Unduh QRIS code yang baru dibuat sebagai file PNG.
 * **Riwayat Transaksi:** Melihat daftar transaksi yang pernah Anda generate (disimpan di `localStorage` browser Anda).
 * **Grafik Transaksi:** Visualisasi sederhana dari nominal transaksi Anda.
 
