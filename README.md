@@ -37,7 +37,7 @@ Jika Anda ingin menjalankannya di komputer Anda:
     * `chart.min.js`
     * Folder `fonts/` (berisi file `Linotte-Regular.otf` dan `Linotte-Bold.otf`)
 
-2.  **Buka `index.html`:** Cukup klik dua kali file `index.html`. Aplikasi akan terbuka di browser default Anda.
+2.  **Buka `index.html`:** Cukup klik dua kali file `index.html`. Website akan terbuka di browser default Anda.
 
 ---
 
@@ -51,8 +51,8 @@ Jika Anda ingin menjalankannya di komputer Anda:
 
 ## Catatan Penting ⚠️
 
-* **Client-Side Only:** Aplikasi ini **tidak terhubung** ke sistem pembayaran bank atau *payment gateway* mana pun.
-* **Bukan Transaksi Nyata:** QR code yang dihasilkan hanya meniru struktur data QRIS dinamis. Kemampuannya untuk diproses sebagai pembayaran *tergantung* pada sistem *payment gateway* merchant asli dari QRIS statis yang Anda upload. Website ini **tidak memproses atau memvalidasi pembayaran**.
+* **Client-Side Only:** Website ini **tidak terhubung** ke sistem pembayaran bank atau *payment gateway* mana pun.
+* **Bukan Transaksi Nyata:** QRIS code yang dihasilkan hanya meniru struktur data QRIS dinamis. Kemampuannya untuk diproses sebagai pembayaran *tergantung* pada sistem *payment gateway* merchant asli dari QRIS statis yang Anda upload. Website ini **tidak memproses atau memvalidasi pembayaran**.
 * **Riwayat Lokal:** Riwayat transaksi hanya tersimpan di browser perangkat yang Anda gunakan. Beda perangkat, beda riwayat.
 
 ---
