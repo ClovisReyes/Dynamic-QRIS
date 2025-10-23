@@ -1,6 +1,6 @@
 # Dynamic QRIS Generator 💳✨
 
-Website sederhana untuk membuat QRIS Dynamic dengan nominal pembayaran kustom dari QRIS statis yang sudah ada. Website ini berjalan sepenuhnya di browser Anda (client-side) tanpa memerlukan backend.
+Website sederhana untuk membuat QRIS Dynamic dengan nominal pembayaran kustom dari QRIS Statis yang sudah ada. Website ini berjalan sepenuhnya di browser Anda (client-side) tanpa memerlukan backend.
 
 <img src="https://i.imgur.com/nNBWzNJ.jpeg">
 
@@ -8,11 +8,11 @@ Website sederhana untuk membuat QRIS Dynamic dengan nominal pembayaran kustom da
 
 ## Fitur Utama 🌟
 
-* **Input Nominal Kustom:** Masukkan jumlah pembayaran yang Anda inginkan.
-* **Generate QR Dinamis:** Membuat QR code baru dengan struktur data QRIS yang menyertakan nominal pembayaran Anda.
-* **Download QRIS:** Unduh QRIS code yang baru dibuat sebagai file PNG.
-* **Riwayat Transaksi:** Melihat daftar transaksi yang pernah Anda generate (disimpan di `localStorage` browser Anda).
-* **Grafik Transaksi:** Visualisasi sederhana dari nominal transaksi Anda.
+* **Input Nominal Kustom:**
+* **Generate QR Dinamis:**
+* **Download QRIS:**
+* **Riwayat Transaksi:**
+* **Grafik Transaksi:**
 
 ---
 
