@@ -1,6 +1,6 @@
 # Dynamic QRIS Generator 💳✨
 
-<img src="https://i.imgur.com/oat2dMK.jpeg">
+<img src="https://i.imgur.com/2VDQt08.png">
 
 Website sederhana untuk membuat QRIS Dynamic dengan nominal pembayaran kustom dari QRIS Statis yang sudah ada. Website ini berjalan sepenuhnya di browser Anda (client-side) tanpa memerlukan backend.
 
